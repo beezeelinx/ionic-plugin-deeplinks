@@ -1,6 +1,6 @@
 {
   "name": "ionic-plugin-deeplinks",
-  "version": "1.0.24",
+  "version": "1.1.0",
   "cordova": {
     "id": "ionic-plugin-deeplinks",
     "platforms": [
@@ -9,8 +9,8 @@
     ]
   },
   "description": "Ionic Deeplinks Plugin",
-  "repository": "https://github.com/ionic-team/ionic-plugin-deeplinks.git",
-  "issue": "https://github.com/ionic-team/ionic-plugin-deeplinks/issues",
+  "repository": "https://github.com/beezeelinx/ionic-plugin-deeplinks.git",
+  "issue": "https://github.com/beezeelinx/ionic-plugin-deeplinks/issues",
   "keywords": [
     "ionic",
     "cordova",
